@@ -1,0 +1,6 @@
+2014-10-16 15:18:36.801  INFO 4244 [main] --- com.dev.test.Application                 : Starting Application on WRJO-PC with PID 4244 (C:\Users\WRJO\git\PleaseKwyi\SpringBasedJson\target\classes started by WRJO in C:\Users\WRJO\git\PleaseKwyi\SpringBasedJson)
+2014-10-16 15:18:36.808 DEBUG 4244 [main] --- com.dev.test.Application                 : Running with Spring Boot v1.1.8.RELEASE, Spring v4.0.7.RELEASE
+2014-10-16 15:18:40.081  INFO 4244 [main] --- o.apache.catalina.core.StandardService   : Starting service Tomcat
+2014-10-16 15:18:40.083  INFO 4244 [main] --- org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/7.0.55
+2014-10-16 15:18:40.341  INFO 4244 [localhost-startStop-1] --- o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2014-10-16 15:18:44.665  INFO 4244 [main] --- com.dev.test.Application                 : Started Application in 8.507 seconds (JVM running for 10.116)
